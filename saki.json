@@ -9,9 +9,9 @@
 "step7":"You can control and change 4 players in the same stage . You have some choices for talking (sentenses will change random). You defeat enemies through simulations. You need not to fight to enemies and look for the ways.",
 "cpa_link":"https://new.winprizs.xyz/?utm_medium=2f8d52eddf7677864ab152113f9a0ca4fd89ed1b&utm_campaign=mobileapps",
       
-"whichAds":"2","__0__":"__ADMOB__","__1__":"__FAN-MOPUB__","__2__":"__FAN-APPLOVIN__",
+"whichAds":"0","__0__":"__ADMOB__","__1__":"__FAN-MOPUB__","__2__":"__FAN-APPLOVIN__",
       
-"admob_inter":"ca-app-pub-1877553739249858/1407338139",
+"admob_inter":"ca-app-pub-1877553739249858/140733813908",
 "admob_banner":"ca-app-pub-1877553739249858/4890098202",
       
 "mopub_banner":"9a57d0a9b23d46dfbbd89a54e233a5af",
@@ -20,7 +20,7 @@
 "max_banner":"8b7af9e0df47febd",
 "max_inter":"166e8dde478f30bf", 
       
-"isLastPageShow":true
+"isLastPageShow":false
 
       }
    ]
